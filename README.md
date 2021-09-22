@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center"> Full Stack Developer :man_technologist: </h3>
 
 - 🏫 Yeditepe University - Student
-- 🧑‍💻 JavaScript React Java Spring Boot<br><br>
+- 🧑‍💻 JavaScript React | Java Spring Boot<br><br>
 
 ## Skills
 
@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 - Java
 - Spring Boot
 - Git GitHub
+
+## Projects
 
 
 ## Connect ME 
