@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### Movie Search Site
 **Only HTML CSS and JavaScript used (No Frameworks).**
-[Movie Search Site Link](https://moviesearchsiteapp.netlify.app/){:target="_blank"}
+[Movie Search Site Link](https://moviesearchsiteapp.netlify.app/)
 
 
 
