@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ## Projects
 
+### Movie Search Site
+**Only HTML CSS and JavaScript used (No Frameworks).**
+[Movie Search Site Link](https://moviesearchsiteapp.netlify.app/)
+
 
 ## Connect ME 
 
