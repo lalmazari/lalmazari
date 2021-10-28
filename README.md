@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🧑‍💻 JavaScript React | Java Spring Boot<br><br>
 
 ## Skills
-
+- WordPress
 - HTML5
 - CSS3
 - Bootstrap 5
