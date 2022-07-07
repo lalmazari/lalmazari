@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 - React
 - Java
 - Spring Boot
+- NodeJS
+- ExpressJS
+- MongoDB
+- MySQL
 - Git GitHub
 
 ## Projects
@@ -36,6 +40,11 @@ Here are some ideas to get you started:
 ### Movie Search Site
 **Only HTML CSS and JavaScript used (No Frameworks).**
 [Movie Search Site Link](https://mmoviesearchapp.netlify.app/)
+### Clean Blog Project
+**Project Created with MongoDB & NodeJS.**
+[Project Repository](https://github.com/lalmazari/clean-blog-project-nodejs)
+[Clean Blog Project Live](https://clean-blog-project-nodejs.herokuapp.com/)
+
 
 
 
