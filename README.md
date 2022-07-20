@@ -25,14 +25,11 @@ Here are some ideas to get you started:
 - HTML5
 - CSS3
 - Bootstrap 5
-- JavaScript
-- React
-- Java
-- Spring Boot
-- NodeJS
-- ExpressJS
-- MongoDB
-- MySQL
+- JavaScript ReactJS
+- Java Spring Boot
+- NodeJS ExpressJS
+- NoSQL MongoDB
+- SQL MySQL, PostgreSQL
 - Git GitHub
 
 ## Projects
@@ -44,6 +41,10 @@ Here are some ideas to get you started:
 **Project Created with MongoDB & NodeJS.**
 [Project Repository](https://github.com/lalmazari/clean-blog-project-nodejs)
 [Clean Blog Project Live](https://clean-blog-project-nodejs.herokuapp.com/)
+### SmartEdu Project
+**Project Created with MongoDB & NodeJS.**
+[Project Repository](https://github.com/lalmazari/smartedu-project-nodejs)
+
 
 
 
