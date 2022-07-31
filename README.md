@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 ### SmartEdu Project
 **Project Created with MongoDB & NodeJS.**
 [Project Repository](https://github.com/lalmazari/smartedu-project-nodejs)
+[SmartEdu Project Live](https://smartedu-project-nodejs.herokuapp.com/)
+
 
 
 
