@@ -20,36 +20,8 @@ Here are some ideas to get you started:
 - 🏫 Yeditepe University - Student
 - 🧑‍💻 JavaScript React | Java Spring Boot<br><br>
 
-## Skills
-- WordPress
-- HTML5
-- CSS3
-- Bootstrap 5
-- JavaScript ReactJS
-- Java Spring Boot
-- NodeJS ExpressJS
-- NoSQL MongoDB
-- SQL MySQL, PostgreSQL
-- Git GitHub
-
-## Projects
-
-### Movie Search Site
-**Only HTML CSS and JavaScript used (No Frameworks).**
-[Movie Search Site Link](https://mmoviesearchapp.netlify.app/)
-### Clean Blog Project
-**Project Created with MongoDB & NodeJS.**
-[Project Repository](https://github.com/lalmazari/clean-blog-project-nodejs)
-[Clean Blog Project Live](https://clean-blog-project-nodejs.herokuapp.com/)
-### SmartEdu Project
-**Project Created with MongoDB & NodeJS.**
-[Project Repository](https://github.com/lalmazari/smartedu-project-nodejs)
-[SmartEdu Project Live](https://smartedu-project-nodejs.herokuapp.com/)
-
-
-
-
-
+## MY PORTFOLIO
+[Link](https://lalmazari.github.io/)
 
 ## Connect ME 
 
