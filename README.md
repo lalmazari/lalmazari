@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🧑‍💻 JavaScript React | Java Spring Boot<br><br>
 
 ## MY PORTFOLIO
-<a type='button' href="https://lalmazari.github.io/" target="_blank">Visit My Portfolio</a>
+<button type="button" onclick="https://lalmazari.github.io/" target="_blank">Visit My Portfolio</button>
 
 ## Connect ME 
 
