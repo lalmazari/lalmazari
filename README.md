@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Hi 👋 I'm Lal MAZARI</h1>
+<h1 align="center"> Hi 👋 I'm lal</h1>
 <h3 align="center"> DevOps Developer :man_technologist: </h3>
 
 <!--
