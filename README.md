@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi 👋 I'm lal</h1>
 <h3 align="center"> DevOps Developer :man_technologist: </h3>
 
+[Gist](https://gist.github.com/lalmazari)
+
+
 <!--
 ## MY PORTFOLIO
 <a href="https://lalmazari.github.io/" target="_blank">
